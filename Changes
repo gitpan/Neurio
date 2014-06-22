@@ -1,0 +1,8 @@
+Revision history for Device-Neurio
+
+0.01    June 18, 2014
+        First version, contains first 5 API calls available for beta testers
+0.02    June 22, 2014
+        Improved POD documentation
+        Added checking for required parameters
+        Added support for optional parameters
